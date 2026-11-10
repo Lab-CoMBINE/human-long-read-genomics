@@ -1,0 +1,14 @@
+task_id	name	category
+sequencing-accuracy	Sequencing accuracy	benchmark
+alignment	Reference alignment	analysis
+genome-assembly	Genome assembly	analysis
+snv-calling	SNV calling	analysis
+indel-calling	InDel calling	analysis
+sv-calling	Structural variant calling	analysis
+assembly-variant-calling	Assembly-based variant detection	analysis
+phasing	Haplotype phasing	analysis
+methylation	DNA methylation	analysis
+complex-loci	Complex and homologous loci	application-oriented analysis
+repeat-expansions	Tandem repeats and repeat expansions	application-oriented analysis
+real-time-analysis	Real-time genomic analysis	application-oriented analysis
+adaptive-sampling	Adaptive sampling	application-oriented analysis

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this Explorer, please cite the companion resource and the associated review once its final citation is available."
+type: software
+title: "Human Long-Read Genomics Explorer"
+authors:
+  - family-names: Baragli
+    given-names: Marta
+  - family-names: Magi
+    given-names: Alberto
+version: 1.0.0
+date-released: 2026-11-10
+abstract: "Interactive, read-only companion for long-read human genomics benchmark results and computational tools."
+keywords:
+  - long-read sequencing
+  - human genomics
+  - benchmark
+  - bioinformatics

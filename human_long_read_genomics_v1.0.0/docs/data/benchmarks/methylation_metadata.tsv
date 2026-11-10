@@ -1,0 +1,2 @@
+technology	analysis	software	version	preset	min_mapq	min_coverage	edge_trimming_size	site_count
+PacBio HiFi	5mCpG pileup	methbat	1.1.0-fbf4686	PbCpgTools	1	4	20	28902689

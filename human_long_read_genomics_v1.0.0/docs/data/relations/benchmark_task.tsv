@@ -1,0 +1,13 @@
+benchmark_file	task_id	scope
+variant_benchmark.tsv	snv-calling	SNV
+variant_benchmark.tsv	indel-calling	InDel
+variant_benchmark.tsv	sv-calling	SV INS/DEL
+phasing_results_with_illumina_reference.tsv	phasing	full
+phasing_results_for_manuscript.tsv	phasing	manuscript subset
+methylation_reference_concordance.tsv	methylation	reference concordance
+methylation_longread_concordance.tsv	methylation	cross-platform
+methylation_per_read.tsv	methylation	per-read
+error_profile_by_read_position_bin.tsv	sequencing-accuracy	position
+error_rate_summary.tsv	sequencing-accuracy	summary
+indel_size_distribution.tsv	sequencing-accuracy	indel composition
+substitution_matrix_long.tsv	sequencing-accuracy	substitution composition

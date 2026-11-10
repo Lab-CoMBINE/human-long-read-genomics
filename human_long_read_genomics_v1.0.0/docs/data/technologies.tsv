@@ -1,0 +1,13 @@
+technology_id	name	type
+ont	Oxford Nanopore Technologies	platform
+ont-fast	ONT Fast	basecalling mode
+ont-hac	ONT HAC	basecalling mode
+ont-sup	ONT SUP	basecalling mode
+ont-duplex	ONT Duplex	sequencing/basecalling mode
+pacbio	Pacific Biosciences	platform
+pacbio-hifi	PacBio HiFi	sequencing mode
+illumina	Illumina	benchmark comparator
+hifiasm-ont	HiFiasm ONT	assembly representation
+hifiasm-pacbio	HiFiasm PacBio	assembly representation
+verkko	Verkko	assembly representation
+flye-ont	Flye ONT	assembly representation

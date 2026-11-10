@@ -1,0 +1,102 @@
+technology	approach	caller	variant_type	precision	recall	f1
+ONT Duplex	Long-read resequencing	Clair3	snv	0.991	0.9821	0.9865
+ONT Duplex	Long-read resequencing	DeepVariant	snv	0.9931	0.9816	0.9873
+ONT Duplex	Long-read resequencing	Longshot	snv	0.9889	0.9662	0.9775
+ONT Duplex	Long-read resequencing	NanoCaller	snv	0.9804	0.9808	0.9806
+ONT Fast	Long-read resequencing	Clair3	snv	0.9814	0.9725	0.9769
+ONT Fast	Long-read resequencing	DeepVariant	snv	0.9533	0.9632	0.9582
+ONT Fast	Long-read resequencing	Longshot	snv	0.9781	0.9446	0.9611
+ONT Fast	Long-read resequencing	NanoCaller	snv	0.9314	0.9618	0.9463
+ONT HAC	Long-read resequencing	Clair3	snv	0.9874	0.9728	0.9801
+ONT HAC	Long-read resequencing	DeepVariant	snv	0.9924	0.9803	0.9863
+ONT HAC	Long-read resequencing	Longshot	snv	0.9861	0.9676	0.9767
+ONT HAC	Long-read resequencing	NanoCaller	snv	0.9805	0.9781	0.9793
+ONT SUP	Long-read resequencing	Clair3	snv	0.9898	0.9827	0.9863
+ONT SUP	Long-read resequencing	DeepVariant	snv	0.9924	0.9811	0.9867
+ONT SUP	Long-read resequencing	Longshot	snv	0.9876	0.9683	0.9779
+ONT SUP	Long-read resequencing	NanoCaller	snv	0.9805	0.9785	0.9795
+PacBio HiFi	Long-read resequencing	Clair3	snv	0.9894	0.9877	0.9886
+PacBio HiFi	Long-read resequencing	DeepVariant	snv	0.9919	0.9853	0.9886
+PacBio HiFi	Long-read resequencing	Longshot	snv	0.9907	0.9677	0.9791
+PacBio HiFi	Long-read resequencing	NanoCaller	snv	0.9805	0.9864	0.9835
+HiFiasm ONT	Assembly	PAV	snv	0.9644	0.9658	0.9651
+HiFiasm ONT	Assembly	dipcall	snv	0.9941	0.9632	0.9784
+HiFiasm PacBio	Assembly	PAV	snv	0.9659	0.9656	0.9658
+HiFiasm PacBio	Assembly	dipcall	snv	0.9968	0.9616	0.9789
+Verkko	Assembly	PAV	snv	0.9663	0.9686	0.9675
+Verkko	Assembly	dipcall	snv	0.9969	0.9655	0.9809
+Illumina	Short-read resequencing	DRAGEN	snv	0.9953	0.9831	0.9892
+ONT Duplex	Long-read resequencing	Clair3	indel	0.8046	0.5914	0.6817
+ONT Duplex	Long-read resequencing	DeepVariant	indel	0.8469	0.6106	0.7096
+ONT Duplex	Long-read resequencing	NanoCaller	indel	0.6156	0.5486	0.5802
+ONT Fast	Long-read resequencing	Clair3	indel	0.7514	0.455	0.5668
+ONT Fast	Long-read resequencing	DeepVariant	indel	0.7712	0.4129	0.5378
+ONT Fast	Long-read resequencing	NanoCaller	indel	0.5744	0.2719	0.3691
+ONT HAC	Long-read resequencing	Clair3	indel	0.8107	0.5362	0.6455
+ONT HAC	Long-read resequencing	DeepVariant	indel	0.8404	0.5905	0.6936
+ONT HAC	Long-read resequencing	NanoCaller	indel	0.6739	0.4481	0.5383
+ONT SUP	Long-read resequencing	Clair3	indel	0.8273	0.6128	0.7041
+ONT SUP	Long-read resequencing	DeepVariant	indel	0.8542	0.6111	0.7125
+ONT SUP	Long-read resequencing	NanoCaller	indel	0.6166	0.524	0.5665
+PacBio HiFi	Long-read resequencing	Clair3	indel	0.9109	0.9145	0.9127
+PacBio HiFi	Long-read resequencing	DeepVariant	indel	0.8877	0.8491	0.8679
+PacBio HiFi	Long-read resequencing	NanoCaller	indel	0.8386	0.8459	0.8422
+HiFiasm ONT	Assembly	PAV	indel	0.4921	0.6767	0.5699
+HiFiasm ONT	Assembly	dipcall	indel	0.5303	0.6945	0.6014
+HiFiasm PacBio	Assembly	PAV	indel	0.8132	0.8512	0.8317
+HiFiasm PacBio	Assembly	dipcall	indel	0.8821	0.8731	0.8776
+Verkko	Assembly	PAV	indel	0.8156	0.8624	0.8383
+Verkko	Assembly	dipcall	indel	0.8853	0.8853	0.8853
+Illumina	Short-read resequencing	DRAGEN	indel	0.9205	0.9284	0.9244
+ONT Duplex	Long-read resequencing	SVIM	sv_ins	0.8497020679985979	0.6900654711073156	0.7616085453974237
+ONT Duplex	Long-read resequencing	Sniffles2	sv_ins	0.8687088018611865	0.6377455166524338	0.7355219960604071
+ONT Duplex	Long-read resequencing	cuteSV	sv_ins	0.8746784565916399	0.6194705380017079	0.7252791201466423
+ONT Fast	Long-read resequencing	SVIM	sv_ins	0.6678157109711634	0.5735269000853971	0.6170903522205207
+ONT Fast	Long-read resequencing	Sniffles2	sv_ins	0.7692635890434337	0.5132365499573015	0.615694577243546
+ONT Fast	Long-read resequencing	cuteSV	sv_ins	0.7922585227272727	0.5080557927697125	0.6190988241007318
+ONT HAC	Long-read resequencing	SVIM	sv_ins	0.7819137895246662	0.6433817250213493	0.7059154225748018
+ONT HAC	Long-read resequencing	Sniffles2	sv_ins	0.8337139129016473	0.5820096783376032	0.6854863043551145
+ONT HAC	Long-read resequencing	cuteSV	sv_ins	0.8384356602186711	0.5675491033304868	0.6768969614666441
+ONT SUP	Long-read resequencing	SVIM	sv_ins	0.8138509968520462	0.6623398804440649	0.7303201506591336
+ONT SUP	Long-read resequencing	Sniffles2	sv_ins	0.8541065126724414	0.6062624537432394	0.709153264742117
+ONT SUP	Long-read resequencing	cuteSV	sv_ins	0.8564372736252881	0.5923142613151153	0.7002995321912967
+PacBio HiFi	Long-read resequencing	SVIM	sv_ins	0.8438358197877236	0.6472530600626245	0.7325858624911398
+PacBio HiFi	Long-read resequencing	Sniffles2	sv_ins	0.8501245717844909	0.6216339311130088	0.718142655134993
+PacBio HiFi	Long-read resequencing	cuteSV	sv_ins	0.8631648825823584	0.5922003985197837	0.7024581307401405
+Flye ONT	Assembly	SVIM-ASM	sv_ins	0.837690036093186	0.4360375747224594	0.5735360191702861
+HiFiasm ONT	Assembly	PAV	sv_ins	0.8484570168993387	0.7888983774551666	0.8175944773873793
+HiFiasm ONT	Assembly	SVIM-ASM	sv_ins	0.9514097180563887	0.7223455735838314	0.8212031973075303
+HiFiasm ONT	Assembly	dipcall	sv_ins	0.9740862892912432	0.8239111870196413	0.8927271605699832
+HiFiasm PacBio	Assembly	PAV	sv_ins	0.8649470483380518	0.4696270993452889	0.608737362556269
+HiFiasm PacBio	Assembly	SVIM-ASM	sv_ins	0.9510457714458926	0.7144890407059493	0.8159682715126296
+HiFiasm PacBio	Assembly	dipcall	sv_ins	0.9863529746250622	0.7900370054084828	0.877347158121009
+Verkko	Assembly	PAV	sv_ins	0.8657192874060344	0.47862226017648735	0.6164393606100601
+Verkko	Assembly	SVIM-ASM	sv_ins	0.9513956812880897	0.7198975234842016	0.8196136893959035
+Verkko	Assembly	dipcall	sv_ins	0.9857260499588252	0.8177625960717335	0.8939228926159878
+Illumina	Short-read resequencing	DRAGEN	sv_ins	0.7917015926236379	0.21508682038144036	0.338272820880154
+ONT Duplex	Long-read resequencing	SVIM	sv_del	0.8580659536541889	0.7061520124690566	0.774732183272142
+ONT Duplex	Long-read resequencing	Sniffles2	sv_del	0.8656972750171743	0.6932245347024847	0.7699200651697978
+ONT Duplex	Long-read resequencing	cuteSV	sv_del	0.8788252714708786	0.6529751535711011	0.7492504339592867
+ONT Fast	Long-read resequencing	SVIM	sv_del	0.7721973094170403	0.6315210415329605	0.6948101074292631
+ONT Fast	Long-read resequencing	Sniffles2	sv_del	0.7908707516745225	0.5845787109195929	0.6722547314038695
+ONT Fast	Long-read resequencing	cuteSV	sv_del	0.8007963010531723	0.571651233153021	0.6670946343551063
+ONT HAC	Long-read resequencing	SVIM	sv_del	0.8177653631284916	0.6710369487485102	0.7371707710127411
+ONT HAC	Long-read resequencing	Sniffles2	sv_del	0.8481788676523621	0.6469239937654717	0.7340060334963071
+ONT HAC	Long-read resequencing	cuteSV	sv_del	0.8364732479276563	0.6106170349316953	0.7059197625735333
+ONT SUP	Long-read resequencing	SVIM	sv_del	0.8358676207513417	0.6854313743467498	0.7532114251171227
+ONT SUP	Long-read resequencing	Sniffles2	sv_del	0.860841806573658	0.6675529476482993	0.7519752130131682
+ONT SUP	Long-read resequencing	cuteSV	sv_del	0.8512304250559284	0.6279453561932704	0.7227351870416293
+PacBio HiFi	Long-read resequencing	SVIM	sv_del	0.8507838425449136	0.6816723205281012	0.7568970782856561
+PacBio HiFi	Long-read resequencing	Sniffles2	sv_del	0.8585216572504708	0.6687448427615293	0.7518424985826933
+PacBio HiFi	Long-read resequencing	cuteSV	sv_del	0.8657257057207095	0.6354634638305675	0.7329350182414212
+Flye ONT	Assembly	SVIM-ASM	sv_del	0.8628649015614392	0.4661226735124232	0.6052741234597298
+HiFiasm ONT	Assembly	PAV	sv_del	0.8727849485889302	0.7315485468048043	0.795949922689411
+HiFiasm ONT	Assembly	SVIM-ASM	sv_del	0.961524759529747	0.7423672870633539	0.837851821192053
+HiFiasm ONT	Assembly	dipcall	sv_del	0.9875369394834896	0.7046850646373888	0.8224719101123595
+HiFiasm PacBio	Assembly	PAV	sv_del	0.881916910877435	0.46905656917575866	0.6124012449126167
+HiFiasm PacBio	Assembly	SVIM-ASM	sv_del	0.9640503295386459	0.7375997066104336	0.8357573239143984
+HiFiasm PacBio	Assembly	dipcall	sv_del	0.9910679101536845	0.6917575868708169	0.8147948164146869
+Verkko	Assembly	PAV	sv_del	0.8829259955563151	0.47364078114972036	0.6165413533834586
+Verkko	Assembly	SVIM-ASM	sv_del	0.9663283582089552	0.7420005501054369	0.839435743180168
+Verkko	Assembly	dipcall	sv_del	0.9919720315939402	0.702392958650408	0.8224369296833065
+Illumina	Short-read resequencing	DRAGEN	sv_del	0.8588061356496026	0.42605666085999816	0.5695550925358499

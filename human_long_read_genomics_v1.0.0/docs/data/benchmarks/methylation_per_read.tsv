@@ -1,0 +1,9 @@
+technology	state	n_calls	pct_correct	pct_not_error	pct_error	pct_uncertain
+Nanopore fast	Methylated	12240740	98.11	99.13	0.87	1.02
+Nanopore fast	Unmethylated	11491307	95.31	98.6	1.4	3.28
+Nanopore hac	Unmethylated	13651110	96.72	98.76	1.24	2.04
+Nanopore hac	Methylated	13653797	98.35	98.99	1.01	0.64
+Nanopore sup	Unmethylated	11157877	97.32	98.88	1.12	1.56
+Nanopore sup	Methylated	11084518	98.34	98.96	1.04	0.62
+PacBio HiFi	Unmethylated	10384913	83.32	96.9	3.1	13.58
+PacBio HiFi	Methylated	10074201	78.83	95.82	4.18	16.99

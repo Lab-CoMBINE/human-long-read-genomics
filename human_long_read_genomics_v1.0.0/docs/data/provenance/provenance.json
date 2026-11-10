@@ -1,0 +1,19 @@
+{
+  "article_source": "manuscript(1).tex",
+  "bibliography_source": "references(1).bib",
+  "assembly_quantitative_page": false,
+  "evidence_semantics": {
+    "reviewed_in_article": "present in supplied manuscript",
+    "benchmarked_in_study": "present in supplied quantitative benchmark",
+    "supported": "reserved for later verification from official documentation/primary literature"
+  },
+  "warnings": [
+    "No external web knowledge was added."
+  ],
+  "release": "1.0.0",
+  "notes": [
+    "Frozen results from Explorer v0.8; no benchmark recomputation in this release.",
+    "Primary-publication links in tool metadata require manual scholarly verification before being considered authoritative.",
+    "Dataset scope and methodological limitations are described in the review; the website is descriptive, not a tool ranking."
+  ]
+}

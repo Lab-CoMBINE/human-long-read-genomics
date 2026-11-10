@@ -1,0 +1,12 @@
+file	data_rows	size_bytes
+error_profile_by_read_position_bin.tsv	222	17449
+error_rate_summary.tsv	6	1633
+indel_size_distribution.tsv	216	9767
+methylation_longread_concordance.tsv	6	388
+methylation_metadata.tsv	1	172
+methylation_per_read.tsv	8	530
+methylation_reference_concordance.tsv	8	410
+phasing_results_for_manuscript.tsv	27	2594
+phasing_results_with_illumina_reference.tsv	27	6517
+substitution_matrix_long.tsv	96	3273
+variant_benchmark.tsv	101	8451

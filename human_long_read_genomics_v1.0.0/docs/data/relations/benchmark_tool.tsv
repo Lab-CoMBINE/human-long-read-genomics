@@ -1,0 +1,7 @@
+benchmark_file	tool_id	relation
+variant_benchmark.tsv	cutesv	benchmarked
+variant_benchmark.tsv	pav	benchmarked
+variant_benchmark.tsv	svim	benchmarked
+variant_benchmark.tsv	svim-asm	benchmarked
+variant_benchmark.tsv	sniffles2	benchmarked
+variant_benchmark.tsv	dipcall	benchmarked

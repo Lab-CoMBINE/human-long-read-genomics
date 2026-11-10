@@ -1,0 +1,42 @@
+section_id	level	title	char_offset
+abstract	section	Abstract	939
+introduction	section	Introduction	971
+evolution-of-long-read-sequencing-technologies	section	Evolution of Long-Read Sequencing Technologies	5576
+sequencing-chemistry-basecalling-and-error-rates	subsection	Sequencing Chemistry, Basecalling and Error Rates	11459
+pacific-biosciences-single-molecule-real-time-sequencing	subsubsection	Pacific Biosciences' Single-Molecule Real-Time Sequencing	12174
+oxford-nanopore-technologies-sequencing	subsubsection	Oxford Nanopore Technologies' Sequencing	15641
+real-data-benchmarking-of-sequencing-accuracy	subsection	Real-Data Benchmarking of Sequencing Accuracy	20800
+whole-genome-analysis-and-variant-discovery	section	Whole Genome Analysis and Variant Discovery	26325
+alignment	subsection	Alignment	27239
+alignment-based-snv-and-indel-detection	subsection	Alignment-based SNV and InDel Detection	33014
+alignment-based-sv-detection	subsection	Alignment-based SV Detection	37893
+de-novo-assembly	subsection	De novo Assembly	40900
+assembly-based-variant-detection	subsection	Assembly-based Variant Detection	46645
+benchmarking-of-variant-detection-algorithms	subsection	Benchmarking of Variant Detection algorithms	51748
+real-data-benchmarking-of-variant-detection	subsection	Real-Data Benchmarking of Variant Detection	51807
+haplotype-reconstruction	subsection	Haplotype Reconstruction	63796
+real-data-benchmarking-of-variant-phasing	subsubsection	Real-data benchmarking of Variant Phasing	68619
+dna-modification-detection	subsection	DNA modification detection	72342
+real-data-benchmarking-of-dna-methylation-detection-accuracy	subsubsection	Real-data benchmarking of DNA Methylation detection accuracy	79192
+applications-of-third-generation-sequencing	section	Applications of Third-Generation Sequencing	84964
+long-range-genomic-analysis	subsection	Long-range Genomic Analysis	85020
+structural-variation	subsubsection	Structural Variation	85488
+complete-and-haplotype-resolved-genome-reconstruction	subsubsection	Complete and Haplotype-resolved Genome Reconstruction	87603
+complex-and-highly-homologous-genomic-regions	subsubsection	Complex and Highly Homologous Genomic Regions	89452
+tandem-repeats-and-repeat-expansion-disorders	subsubsection	Tandem Repeats and Repeat Expansion Disorders	93297
+epigenomic-applications	subsection	Epigenomic Applications	95580
+real-time-and-adaptive-nanopore-sequencing	subsection	Real-time and Adaptive Nanopore Sequencing	97441
+real-time-genomic-analysis	subsubsection	Real-time Genomic Analysis	97503
+adaptive-sampling	subsubsection	Adaptive Sampling	99143
+cell-free-dna-and-liquid-biopsy	subsection	Cell-free DNA and Liquid Biopsy	101341
+discussion	section	Discussion	103424
+conclusion	section	Conclusion	113783
+methods	section	Methods	119052
+sequencing-data-and-reference-genome	subsection	Sequencing data and reference genome	119072
+error-profiles	subsection	Error profiles	120263
+snv-and-indel-calling	subsection	SNV and InDel calling	122066
+sv-calling	subsection	SV calling	122829
+methylation-calling-and-analysis	subsection	Methylation calling and analysis	123142
+snv-and-indel-benchmarking	subsection	SNV and InDel benchmarking	125631
+sv-benchmarking	subsection	SV benchmarking	127704
+data-availability	section	Data Availability	129119

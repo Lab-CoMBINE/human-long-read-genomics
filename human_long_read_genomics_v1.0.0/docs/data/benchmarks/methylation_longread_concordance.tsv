@@ -1,0 +1,7 @@
+technology_1	technology_2	pearson_r	n_sites	r2
+Nanopore fast	Nanopore hac	0.9825	28280128	0.96530625
+Nanopore fast	Nanopore sup	0.9794	28280128	0.9592243600000001
+Nanopore fast	PacBio HiFi	0.7633	28280128	0.58262689
+Nanopore hac	Nanopore sup	0.9911	28280128	0.98227921
+Nanopore hac	PacBio HiFi	0.7624	28280128	0.58125376
+Nanopore sup	PacBio HiFi	0.7596	28280128	0.5769921600000001
